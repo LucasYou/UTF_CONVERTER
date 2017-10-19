@@ -1,12 +1,13 @@
 # UTF_CONVERTER
 
 Supports:
-UTF8 to UTF16LE
-UTF8 to UTF16BE
-UTF16LE to UTF8
-UTF16BE to UTF8
-UTF16LE to UTF16BE
-UTF16BE to UTF16LE
+
+         UTF8 to UTF16LE
+         UTF8 to UTF16BE
+         UTF16LE to UTF8
+         UTF16BE to UTF8
+         UTF16LE to UTF16BE
+         UTF16BE to UTF16LE
 
 Compile the codes by: make/make clean all
 
