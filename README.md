@@ -14,16 +14,19 @@ Run the codes with following format:
 bin/utf -e ENCODING INPUT_FILE OUTPUT_FILE
 
 ENCODING:
+         
          MANDATORY FLAG: Choose output format.
-         Accepted values:                                 
-         UTF16LE                                        
-         UTF16BE                                        
-         UTF8  
+         Accepted values:
+         -UTF16LE
+         -UTF16BE
+         -UTF8
 
 INPUT_FILE:
+
          File to convert.
          Must contain a Byte Order Marking (BOM)
 
 OUTPUT_FILE:
+
          Output file.
          Will contain a Byte Order Marking (BOM)
